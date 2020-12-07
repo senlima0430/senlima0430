@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-我已經快沒錢維生了，如果你看得到的話大概是透過我的求職信而來的，拜託請儘速跟我聯絡。拜託
-
 <!--
 **senlima0430/senlima0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
